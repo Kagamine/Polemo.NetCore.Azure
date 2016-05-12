@@ -10,7 +10,7 @@ namespace Polemo.NetCore.Azure
     public class Class1
     {
         public Class1()
-        {
+        {32132131
         }
     }
 }
